@@ -1,0 +1,38 @@
+div{
+    justify-content: center; 
+     display: flex; 
+  }
+  
+  .cim{
+  background-color: gray;
+  
+  }
+  
+  .alma{
+  
+  background-color: gray;
+
+  }
+  
+  body{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  
+  .flex-container {
+    display: flex;
+    background-color: gray;
+    color:white;
+  }
+  
+  .flex-container div {
+    background-color: gray;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+  h2{
+    background-color: gray;
+    color: white;
+  }
+  
